@@ -1,6 +1,6 @@
 Splice plugin 1.0
 =======================
-Embed Splice audio projects into yellow.
+Embed Splice[Splice](http://www.splice.com) audio projects into yellow.
 
 ![Screenshot](splice-browser.png?raw=true)
 
