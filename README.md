@@ -21,7 +21,7 @@ The following arguments are available:
 `ID` = code between [Splice](https://splice.com/release/?id=) and '&' in the share dialog box, e.g. `https://splice.com/release/?id=de89b88a-0976-c980-d668-c382d2490195c84c1fc&` (Don't copy the last '&' !!!)  
 `STYLE` = audio project style, e.g. `left`, `center`, `right`   
 `WIDTH` = audio project width, pixel or percent  
-`HEIGHT` = audio project height, pixel or percent. If you set the width to 100% then best results are achieved either with 175 or 400 height  
+`HEIGHT` = audio project height, pixel or percent. If you set the width to 100% then the best results are achieved either with 175 or 400 height  
 
 Example
 -------
